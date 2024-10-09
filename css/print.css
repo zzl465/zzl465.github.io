@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .sidebar {
   display: none !important;
 }
@@ -17,3 +18,24 @@
   padding-right: 1rem;
   margin: 0 auto;
 }
+=======
+.sidebar {
+  display: none !important;
+}
+
+.content {
+  margin: 0 auto;
+  width: 100%;
+  float: none;
+  display: initial;
+}
+
+.container {
+  width: 100%;
+  float: none;
+  display: initial;
+  padding-left:  1rem;
+  padding-right: 1rem;
+  margin: 0 auto;
+}
+>>>>>>> 5bc5259d2e0021b080897d89f84e47cc75c1b9fb
