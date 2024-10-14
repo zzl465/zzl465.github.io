@@ -6,16 +6,14 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 09 Oct 2024 11:08:00 +0800</lastBuildDate><atom:link href="https://zzl465.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Oct 2024 17:15:15 +0800</lastBuildDate><atom:link href="https://zzl465.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fist</title>
-      <link>https://zzl465.github.io/post/fist/</link>
-      <pubDate>Wed, 09 Oct 2024 11:08:00 +0800</pubDate>
+      <title>First</title>
+      <link>https://zzl465.github.io/post/first/</link>
+      <pubDate>Mon, 14 Oct 2024 17:15:15 +0800</pubDate>
       
-      <guid>https://zzl465.github.io/post/fist/</guid>
-      <description>zzh da sha bi
-dsadadxcdzd
-dwadawdwa</description>
+      <guid>https://zzl465.github.io/post/first/</guid>
+      <description>hello,world</description>
     </item>
     
   </channel>
